@@ -50,7 +50,7 @@ model2.ipynb: Jupyter Notebook documenting the complete data analysis and model 
 README.md: This README file providing an overview of the project.
 
 ## Usage and Exploration
-Feel free to explore the Jupyter Notebook (conversion_prediction.ipynb) to understand the entire data analysis process, from data preprocessing to model evaluation. If you're interested in predicting customer conversions for your insurance company or understanding how predictive analytics can drive business decisions, this project can serve as a valuable resource.
+Feel free to explore the Jupyter Notebook (model2.ipynb) to understand the entire data analysis process, from data preprocessing to model evaluation. If you're interested in predicting customer conversions for your insurance company or understanding how predictive analytics can drive business decisions, this project can serve as a valuable resource.
 
 ## Contact
 If you have any questions, suggestions, or would like to discuss the project, predictive analytics, or the insurance industry, please feel free to contact me at jeelkenia.jk@gmail.com.
