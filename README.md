@@ -43,16 +43,16 @@ Throughout the project, I followed these key steps:
 `Creating visualizations:` Visualizing the results, including feature importance and performance metrics.
 
 ## Files Included
-insurance_data.csv: The dataset used for the analysis.
-conversion_prediction.ipynb: Jupyter Notebook documenting the complete data analysis and model building process.
-visualizations: Directory containing visualizations generated during the analysis.
-README.md: This README file providing an overview of the project.
-Usage and Exploration
+train.csv: The dataset used for the analysis.
 
+model2.ipynb: Jupyter Notebook documenting the complete data analysis and model building process.
+
+README.md: This README file providing an overview of the project.
+
+## Usage and Exploration
 Feel free to explore the Jupyter Notebook (conversion_prediction.ipynb) to understand the entire data analysis process, from data preprocessing to model evaluation. If you're interested in predicting customer conversions for your insurance company or understanding how predictive analytics can drive business decisions, this project can serve as a valuable resource.
 
-Contact
-
+## Contact
 If you have any questions, suggestions, or would like to discuss the project, predictive analytics, or the insurance industry, please feel free to contact me at jeelkenia.jk@gmail.com.
 
 Thank you for visiting this repository!
